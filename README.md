@@ -25,3 +25,6 @@ A **`simple`** and **`useful`** desktop app for keeping all your accounts and im
 <br><br>![](images/screenshots/18.%20Settings%20Panel%20[Windows%20Version]%20tag.png)
 <br><br>![](images/screenshots/19.%20Settings%20Panel%20[Android%20Version]%20tag.png)
 <br><br>![](images/screenshots/20.%20App%20Info.png)
+<br><br>
+
+## [Account Manager 1.0.rar [30.7 MB]](https://github.com/Odellgm/account-manager/releases/download/v1.0/Account.Manager.1.0.rar)
