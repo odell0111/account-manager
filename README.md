@@ -2,6 +2,7 @@
 A **`simple`** and **`useful`** desktop app for keeping all your accounts and important passwords in one place with the best possible **`security`**
 
 ## [Find the version for Android on PlayStore](https://play.google.com/store/apps/details?id=com.eca.accountmanager)
+not public yet, Google is taking its time :(
 
  <br><br>
 ![](images/screenshots/03.%20Account%20Panel%2001.png)
