@@ -26,4 +26,4 @@ A **`simple`** and **`useful`** desktop app for keeping all your accounts and im
 <br><br>![](images/screenshots/20.%20App%20Info.png)
 <br><br>
 
-## [Account Manager 1.0.rar [30.7 MB]](https://github.com/odell0111/account-manager/releases/download/v1.0/Account.Manager.1.0.rar)
+## [Account Manager 1.0.rar [30.6 MB]](https://github.com/odell0111/account-manager/releases/download/v1.0/Account.Manager.1.0.rar)
