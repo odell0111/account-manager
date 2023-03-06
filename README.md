@@ -21,9 +21,9 @@ A **`simple`** and **`useful`** desktop app for keeping all your accounts and im
 <br><br>![](images/screenshots/15.%20Password%20Panel%20-%20Importing%20File.png)
 <br><br>![](images/screenshots/16.%20Host%20Types.png)
 <br><br>![](images/screenshots/17.%20Built-in%20Date%20Picker.png)
-<br><br>![](images/screenshots/18.%20Settings%20Panel%20[Windows%20Version]%20tag.png)
-<br><br>![](images/screenshots/19.%20Settings%20Panel%20[Android%20Version]%20tag.png)
+<br><br>![](images/screenshots/18.%20Settings%20Panel%20[Windows%20Version][New%20Toggle%20Style]%20tag.png)
+<br><br>![](images/screenshots/19.%20Settings%20Panel%20[Android%20Version][New%20Toggle%20Style]%20tag.png)
 <br><br>![](images/screenshots/20.%20App%20Info.png)
 <br><br>
 
-## [Account Manager 1.0.rar [30.7 MB]](https://github.com/odell0111/account-manager/releases/download/v1.0/Account.Manager.1.0.rar)
+## [Account Manager 1.0b.rar - Windows x64 [31.1 MB]](https://github.com/odell0111/account-manager/releases/download/v1.0-beta/Account.Manager.1.0b.rar)
