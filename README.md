@@ -1,7 +1,10 @@
 # Account Manager
 A **`simple`** and **`useful`** desktop app for keeping all your accounts and important passwords in one place with the best possible **`security`**
 
-## [Get the Android version on PlayStore](https://play.google.com/store/apps/details?id=com.ogm.accountmanager)
+## Download it for:
+
+ ### [Android [33.1 MB]](https://account-manager.en.uptodown.com/android)
+ ### [Windows [31.1 MB]](https://account-manager.en.uptodown.com/windows)
 
  <br><br>
 ![](images/screenshots/03.%20Account%20Panel%2001.png)
@@ -24,6 +27,3 @@ A **`simple`** and **`useful`** desktop app for keeping all your accounts and im
 <br><br>![](images/screenshots/18.%20Settings%20Panel%20[Windows%20Version][New%20Toggle%20Style]%20tag.png)
 <br><br>![](images/screenshots/19.%20Settings%20Panel%20[Android%20Version][New%20Toggle%20Style]%20tag.png)
 <br><br>![](images/screenshots/20.%20App%20Info.png)
-<br><br>
-
-## [Account Manager 1.0b.rar - Windows x64 [31.1 MB]](https://github.com/odell0111/account-manager/releases/download/v1.0-beta/Account.Manager.1.0b.rar)
