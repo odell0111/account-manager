@@ -3,8 +3,8 @@ A **`simple`** and **`useful`** desktop app for keeping all your accounts and im
 
 ## Download it for:
 
- ### [Android [33.1 MB]](https://account-manager.en.uptodown.com/android)
- ### [Windows [31.1 MB]](https://account-manager.en.uptodown.com/windows)
+ ### [Android](https://account0-manager.en.uptodown.com/android)
+ ### [Windows](https://account0-manager.en.uptodown.com/windows)
 
  <br><br>
 ![](images/screenshots/03.%20Account%20Panel%2001.png)
