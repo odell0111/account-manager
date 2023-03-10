@@ -1,12 +1,13 @@
 # Account Manager
 A **`simple`** and **`useful`** desktop app for keeping all your accounts and important passwords in one place with the best possible **`security`**
 
-## Download it for:
+## Download it from Uptodown for:
 
- ### [Android](https://account0-manager.en.uptodown.com/android)
- ### [Windows](https://account0-manager.en.uptodown.com/windows)
+### Android
+### [Windows](https://account-manager.en.uptodown.com/windows)
 
- <br><br>
+ ## Screenshots
+ 
 ![](images/screenshots/03.%20Account%20Panel%2001.png)
 <br><br>![](images/screenshots/01.%20First%20Launch%20Panel%20en.png)
 <br><br>![](images/screenshots/02.%20First%20Launch%20Panel%20es.png)
@@ -27,3 +28,15 @@ A **`simple`** and **`useful`** desktop app for keeping all your accounts and im
 <br><br>![](images/screenshots/18.%20Settings%20Panel%20[Windows%20Version][New%20Toggle%20Style]%20tag.png)
 <br><br>![](images/screenshots/19.%20Settings%20Panel%20[Android%20Version][New%20Toggle%20Style]%20tag.png)
 <br><br>![](images/screenshots/20.%20App%20Info.png)
+
+## Images for Marketing (Help me to share 🙏🙏🙏)
+
+English
+<br><br>![](images/screenshots/21.%20Marketing%20Image%2001%20-%20English.jpg)
+<br><br>![](images/screenshots/22.%20Portrait%20Featured%20Graphic%20-%20GitHub%20-%20english.jpg)
+<br><br>
+Spanish
+<br><br>![](images/screenshots/23.%20Marketing%20Image%2001%20-%20Spanish.jpg)
+<br><br>![](images/screenshots/24.%20Portrait%20Featured%20Graphic%20-%20GitHub%20-%20spanish.jpg)
+
+
