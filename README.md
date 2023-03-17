@@ -1,12 +1,12 @@
 # Account Manager
 A **`simple`** and **`useful`** desktop app for keeping all your accounts and important passwords in one place with the best possible **`security`**
 
-`Note`: Either Android and Windows version are in beta stage
+`Note`: Both Android and Windows version are in beta stage
 
 ## Downloads
 
-> - [Android](https://github.com/odell0111/account-manager/releases/download/v1.0b/Account.Manager.1.0b.armeabi-v7a.arm64-v8a.apk)
-> * [Windows](https://account-manager.en.uptodown.com/windows)
+- [Android](https://github.com/odell0111/account-manager/releases/download/v1.0b/Account.Manager.1.0b.armeabi-v7a.arm64-v8a.apk)
+* [Windows](https://account-manager.en.uptodown.com/windows)
 
  ## Screenshots
  
