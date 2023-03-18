@@ -5,7 +5,7 @@ A **`simple`** and **`useful`** desktop app for keeping all your accounts and im
 
 ## Downloads
 
-- [Android](https://github.com/odell0111/account-manager/releases/download/v1.0b/Account.Manager.1.0b.armeabi-v7a.arm64-v8a.apk)
+- [Android](https://github.com/odell0111/account-manager/releases/download/v1.0b/Account.Manager.1.0b.armeabi-v7a.arm64-v8a.zip)
 * [Windows](https://account-manager.en.uptodown.com/windows)
 
  ## Screenshots
