@@ -1,5 +1,5 @@
 # Account Manager
-A **`simple`** and **`useful`** desktop app for keeping all your accounts and important passwords in one place with the best possible **`security`**
+A **`simple`** and **`useful`** desktop and mobile app for keeping all your accounts and important passwords in one place with the best possible **`security`**
 
 `Note`: Both Android and Windows version are in beta stage
 
