@@ -45,3 +45,8 @@ Spanish
  <br><br><img src="images/screenshots/23.%20Marketing%20Image%2001%20-%20Spanish.jpg"><br/><br/>
  <img src="images/screenshots/24.%20Portrait%20Featured%20Graphic%20-%20GitHub%20-%20spanish.jpg"><br/><br/>
 </div>
+
+## Visit my other repos
+**[Custom GUI SFX](https://github.com/odell0111/custom-gui-sfx)**</br>
+**[NFS Most Wanted Trainer](https://github.com/odell0111/nfs-mostwanted-trainer)**</br>
+**[Blur Trainer](https://github.com/odell0111/blur-trainer)**</br>
