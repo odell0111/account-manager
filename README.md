@@ -1,3 +1,5 @@
+![](https://img.shields.io/github/downloads/odell0111/account-manager/total.svg?style=plastic&label=Downloads&logo=android)
+
 # Account Manager
 A **`simple`** and **`useful`** desktop and mobile app for keeping all your accounts and important passwords in one place with the best possible **`security`**
 
