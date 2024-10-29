@@ -10,6 +10,19 @@ A **`simple`** and **`useful`** desktop and mobile app for keeping all your acco
 - [Android](https://github.com/odell0111/account-manager/releases/download/latest/Account.Manager.1.0b.armeabi-v7a.arm64-v8a.apk)
 * [Windows](https://account-manager.en.uptodown.com/windows)
 
+## Are there future plans for Account Manager?
+
+Of course! It will be available for MacOS, iOS and Linux distributions... New hosts and much more will be added. You are welcome to donate if you want... Thanks in advance
+
+<br>
+<a
+href="https://oxapay.com/donate/42319117"
+target="_blank">
+<img src="https://app.oxapay.com/media/btn/light-btn.png"
+style="width: 185px">
+</a>
+
+
  ## Screenshots
 <div align="center">
 	<img src="images/screenshots/03.%20Account%20Panel%2001.png"><br/><br/>
