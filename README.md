@@ -14,18 +14,10 @@ A **`simple`** and **`useful`** desktop and mobile app for keeping all your acco
 
 Of course! It will be available for MacOS, iOS and Linux distributions... New hosts and much more will be added. You are welcome to donate if you want... Thanks in advance
 
-<br>
-<a
-href="https://oxapay.com/donate/42319117"
-target="_blank">
-<img src="https://app.oxapay.com/media/btn/light-btn.png"
-style="width: 185px">
-</a>
-
 
  ## Screenshots
 <div align="center">
-	<img src="images/screenshots/03.%20Account%20Panel%2001.png"><br/><br/>
+ <img src="images/screenshots/03.%20Account%20Panel%2001.png"><br/><br/>
  <img src="images/screenshots/01.%20First%20Launch%20Panel%20en.png"><br/><br/>
  <img src="images/screenshots/02.%20First%20Launch%20Panel%20es.png"><br/><br/>
  <img src="images/screenshots/04.%20Account%20Panel%2004.png"><br/><br/>
@@ -47,7 +39,30 @@ style="width: 185px">
  <img src="images/screenshots/20.%20App%20Info.png"><br/><br/>
 </div>
 
-## Images for Marketing (Help me to share 🙏🙏🙏)
+## Donate
+If you find my work useful and want to encourage further development, you can do so by donating
+
+### [OxaPay](https://oxapay.com/donate/42319117)
+
+### TON
+```
+UQCyCnWVYOmv97idVFZ4tIewToZacRhYVwfGNU658fN5w3Kl
+```
+### Bitcoin
+```
+1E9kw3FuaahfeproboNL7uvyBdjP9wY6CR
+```
+### Bitcoin (BEP20)
+```
+0x88046e6d0f2bf8629cd7fbd754e4e275083fc993
+```
+#### Speed Lightning Address username
+```
+bytechanger@speed.app
+```
+
+
+## Images for Marketing. Would you help me to share?
 
 English
 <div align="center">
